@@ -3,7 +3,7 @@ Remote Desktop for Ubuntu
 
 
 ## Installation
-Buka aplikasi putty, lalu login
+Buka aplikasi putty, lalu login ke server yang dimiliki.
 
 Download file xrdp.sh dan tightvnc.sh dengan cara
 ```bash
