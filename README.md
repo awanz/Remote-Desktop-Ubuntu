@@ -7,8 +7,8 @@ Buka aplikasi putty, lalu login ke server yang dimiliki.
 
 Download file xrdp.sh dan tightvnc.sh dengan cara
 ```bash
-wget xrdp.sh
-wget tightvnc.sh
+wget https://raw.githubusercontent.com/awanz/Remote-Desktop-Ubuntu/master/xrdp.sh
+wget https://raw.githubusercontent.com/awanz/Remote-Desktop-Ubuntu/master/tightvnc.sh
 ```
 Lakukan chmod kedua file tersebut dengan cara
 ```bash
